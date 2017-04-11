@@ -1,0 +1,6 @@
+admin#admin#1
+seg#seg#2
+sol#sol#3
+caminho#123#3
+eseig#eseig#3
+cruz#cruz#3

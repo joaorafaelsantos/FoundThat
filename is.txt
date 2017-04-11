@@ -1,0 +1,4 @@
+1#sol
+2#eseig
+3#cruz
+4#caminho
