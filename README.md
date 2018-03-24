@@ -10,7 +10,9 @@
     <a href="https://www.youtube.com/watch?v=sC33nRWhD_Q">Pitch</a>
     <br>
     <br>
-    Web Information Systems and Technologies / School of Media Arts and Design (P.PORTO)
+ Web Information Systems and Technologies / School of Media Arts and Design (P.PORTO)
+    <br>
+    Grade: 16/20
     <br>
     <br>
   </p>
